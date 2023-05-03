@@ -16,7 +16,7 @@
 
     <TextView
         android:id="@+id/tv_owner_name"
-        android:textSize="20sp"
+        android:textSize="15sp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintStart_toStartOf="@id/tv_char_name"
@@ -24,7 +24,7 @@
 
     <TextView
         android:id="@+id/tv_clan_name"
-        android:textSize="20sp"
+        android:textSize="15sp"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         app:layout_constraintStart_toStartOf="@id/tv_owner_name"
